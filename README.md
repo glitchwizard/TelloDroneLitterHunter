@@ -1,4 +1,4 @@
-#Tello Drone Litter Hunter
+# Tello Drone Litter Hunter
 This project is working on making a drone that can 
 sweep an area and identify litter.
 
