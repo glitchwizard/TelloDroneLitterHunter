@@ -61,7 +61,3 @@ while True:
         print ('\n . . .\n')
         sock.close()  
         break
-
-
-
-
